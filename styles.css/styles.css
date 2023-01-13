@@ -417,7 +417,7 @@ img{
 }
 
 .customer-icon{
-  transition: fill 250ms var(--smoothness);
+  transition: fill var(--smoothness);
 }
 
 .customer-link:hover,
